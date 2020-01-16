@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+.vs
+_ReSharper.Caches
+/FSharpConsoleApp/bin
+/FSharpConsoleApp/obj
+/CSharpConsoleApp/bin
+/CSharpConsoleApp/obj
